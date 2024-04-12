@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 48C5-61A0
+
+ Directory of C:\My PC\Trainings\GIT\MyProject
+
+04/12/2024  01:55 PM    <DIR>          .
+04/12/2024  09:55 AM    <DIR>          ..
+04/12/2024  10:31 AM                10 index.html
+04/12/2024  10:31 AM                10 test1.txt
+04/12/2024  12:58 PM               450 test2.txt
+04/12/2024  01:55 PM                 0 test3.txt
+               4 File(s)            470 bytes
+               2 Dir(s)  910,257,324,032 bytes free
